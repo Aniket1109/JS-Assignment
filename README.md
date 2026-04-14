@@ -1,4 +1,3 @@
-# JS-Assignment
 Q1.
 Loop from L to R
 Check divisible by K
